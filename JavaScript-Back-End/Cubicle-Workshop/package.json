@@ -15,7 +15,7 @@
         "express-handlebars": "^3.1.0",
         "jsonwebtoken": "^8.5.1",
         "mongodb": "^3.3.2",
-        "mongoose": "^5.7.3",
+        "mongoose": "^5.7.5",
         "uniqid": "^5.0.3"
     },
     "devDependencies": {
