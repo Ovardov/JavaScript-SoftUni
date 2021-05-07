@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "handlebars": "^4.1.0"
+    "handlebars": "^4.7.7"
   }
 }
